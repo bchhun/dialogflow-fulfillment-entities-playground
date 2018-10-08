@@ -5,7 +5,7 @@ A simple DialogFlow [Express](http://expressjs.com/) fulfillment app that messes
 
 ## The dialogflow agent
 
-It's testable here: [https://bot.dialogflow.com/647a4b93-9ddc-49ba-9fdb-9287b690baf2](https://bot.dialogflow.com/647a4b93-9ddc-49ba-9fdb-9287b690baf2)
+It's testable here: [https://dialogflow-fulfillment-entities-playground.glitch.me/](https://dialogflow-fulfillment-entities-playground.glitch.me/)
 
 The agent's export file is downloadable here: [http://bit.ly/2ILgTuv](http://bit.ly/2ILgTuv)
 
